@@ -122,9 +122,6 @@ public class ChhaviJoshi {
 | 🎯 **Participant** | Indore-Level Hackathon · SCSIT, DAVV (Team: Bit Rebels) |
 | 🎯 **Participant** | Codespire 3.0 |
 | 🥉 **2nd Runner-Up** | FreePress "Power of Words 2025" Presentation Competition |
-| 🏅 **State & Nodal** | Yoga Player (2024) |
-| 🏅 **Nodal Winner** | Handball (2024) |
-| 🏅 **Nodal Runner-Up** | Kabaddi (2023–24) |
 
 ---
 
