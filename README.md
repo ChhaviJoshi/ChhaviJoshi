@@ -15,7 +15,7 @@
 public class ChhaviJoshi {
 
     String role       = "Java Backend Developer";
-    String education  = "B.Tech IT @ AITR Indore (RGPV) · 2023–27 · 8.11 CGPA";
+    String education  = "B.Tech IT @ AITR Indore (RGPV) · 2023–27 · 8.15 CGPA";
     String location   = "Indore, India 🇮🇳";
 
     String[] primaryStack = { "Java", "Spring Boot", "Spring Security",
