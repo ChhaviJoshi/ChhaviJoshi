@@ -136,6 +136,6 @@ public class ChhaviJoshi {
 
 <div align="center">
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7a5500,100:1a1200&height=100&section=footer&text=Building%20systems%20that%20scale&fontSize=16&fontColor=FFD700&animation=twinkling&fontAlignY=65)](https://github.com/ChhaviJoshi)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:fff59d,100:ffd700&height=100&section=footer&text=Building%20systems%20that%20scale&fontSize=16&fontColor=FFD700&animation=twinkling&fontAlignY=65)](https://github.com/ChhaviJoshi)
 
 </div>
