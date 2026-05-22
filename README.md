@@ -42,43 +42,36 @@ public class ChhaviJoshi {
 
 ## `$ ls ./projects`
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔶 Gurukulam
-> Real-time WebRTC video session platform with role-scoped JWT auth
+> Real-time WebRTC session orchestration platform
 
-- Designed an **18-model PostgreSQL schema** using Prisma ORM
-- Built REST APIs for rooms, attendance & moderation modules
-- Implemented WebRTC signaling with **webhook lifecycle management**
-- Concurrent multi-room management with real-time orchestration
+- 18-model **PostgreSQL schema** (Prisma ORM)
+- Role-scoped **JWT auth** + concurrent multi-room management
+- REST APIs for rooms / attendance / moderation
+- **WebRTC signaling** with webhook lifecycle management
 
-`Java` `WebRTC` `PostgreSQL` `Prisma ORM` `JWT` `REST API` — *Mar–Apr 2026*
+`Java` `WebRTC` `PostgreSQL` `Prisma` `JWT`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔷 Prodee
-> Modular monolith productivity app — Spring Boot 4 + PostgreSQL
+> Modular monolith productivity app
 
-- **Event-driven XP/rewards system** via Spring ApplicationEvents
-- Java Streams-based personalized feed engine
-- WebSocket real-time leaderboards
-- `@Scheduled` cron jobs for streak resets & data cleanup
+- **Event-driven XP/rewards** via Spring ApplicationEvents
+- Java Streams personalized feed engine
+- **WebSocket** real-time leaderboards
+- `@Scheduled` cron jobs for streak resets & cleanup
 
-`Spring Boot` `PostgreSQL` `WebSocket` `JWT Security` `JPA` — *Feb–Mar 2026*
+`Spring Boot 4` `PostgreSQL` `WebSocket` `JWT` `JPA`
 
----
-
-## `$ cat ./tech-stack.json`
-
-**Core — Java Backend**
-
-[![Java Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&perline=6)](https://skillicons.dev)
-
-**Also Wield**
-
-[![Also Wield](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,js,ts&perline=6)](https://skillicons.dev)
-
-**Tooling & Others**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode&perline=6)](https://skillicons.dev)
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,14 +88,31 @@ public class ChhaviJoshi {
 
 ---
 
-## `$ git log --stats` *(GitHub Activity)*
+## `$ git log --stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChhaviJoshi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ChhaviJoshi&theme=github_dark&hide_border=true" height="165"/>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ChhaviJoshi&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ChhaviJoshi)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhaviJoshi&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ChhaviJoshi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=FFD70020&ring=FFD700&fire=FFC200&currStreakLabel=FFD700&sideLabels=9da5b4&dates=9da5b4" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhaviJoshi&theme=github_dark&hide_border=true&layout=compact&langs_count=8&title_color=FFD700&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChhaviJoshi&bg_color=0d1117&color=FFD700&line=FFC200&point=FFD700&area=true&hide_border=true)](https://github.com/ChhaviJoshi)
+
+</div>
+
+---
+
+## `$ ./contribution-snake`
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ChhaviJoshi/ChhaviJoshi/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
