@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPSULE HEADER -->
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:fff59d,100:ffd700&height=220&section=header&text=Chhavi%20Joshi&fontSize=72&fontColor=333333&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Systems%20Builder%20%7C%20Top%202%25%20National%20Finalist&descSize=16&descColor=333333&descAlignY=68&fontFamily=Georgia)](https://github.com/ChhaviJoshi)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:fff59d,100:ffd700&height=220&section=header&text=Chhavi%20Joshi&fontSize=72&fontColor=ffffff&stroke=333333&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Systems%20Builder%20%7C%20Top%202%25%20National%20Finalist&descSize=16&descColor=ffffff&descAlignY=68)](https://github.com/ChhaviJoshi)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL+%7C+JPA;Designing+clean%2C+scalable+backend+systems;Top+2%25+at+HCL+GUVI+AI+Buildathon+%E2%80%94+40%2C000%2B+participants;B.Tech+IT+%40+AITR+Indore+%7C+CGPA+8.11)](https://github.com/ChhaviJoshi)
 
