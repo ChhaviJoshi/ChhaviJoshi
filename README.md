@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- CAPSULE HEADER -->
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a2e,100:16213e&height=220&section=header&text=Chhavi%20Joshi&fontSize=72&fontColor=E8D5B7&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Systems%20Builder%20%7C%20Top%202%25%20National%20Finalist&descSize=16&descColor=C4A882&descAlignY=68)](https://github.com/ChhaviJoshi)
+[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:1a1200,50:3d2b00,100:7a5500&height=220&section=header&text=Chhavi%20Joshi&fontSize=72&fontColor=FFD700&animation=fadeIn&fontAlignY=45&desc=Java%20Backend%20Developer%20%7C%20Systems%20Builder%20%7C%20Top%202%25%20National%20Finalist&descSize=16&descColor=FFC200&descAlignY=68)](https://github.com/ChhaviJoshi)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=C4A882&center=true&vCenter=true&width=600&lines=Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL+%7C+JPA;Designing+clean%2C+scalable+backend+systems;Top+2%25+at+HCL+GUVI+AI+Buildathon+%E2%80%94+40%2C000%2B+participants;B.Tech+IT+%40+AITR+Indore+%7C+CGPA+8.11)](https://github.com/ChhaviJoshi)
 
@@ -66,36 +66,32 @@ public class ChhaviJoshi {
 
 ---
 
-### 🔹 FocusFlow
-> Productivity & focus-tracking backend
-
-`Node.js` `PostgreSQL` `React`
-
----
-
 ## `$ cat ./tech-stack.json`
 
-**Primary Domain — Java Backend**
+**Core — Java Backend**
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+[![Java Backend](https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,mysql&perline=6)](https://skillicons.dev)
 
 **Also Wield**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white)
+[![Also Wield](https://skillicons.dev/icons?i=nodejs,react,mongodb,express,js,ts&perline=6)](https://skillicons.dev)
 
-**Tooling**
+**Tooling & Others**
 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,docker,linux,vscode&perline=6)](https://skillicons.dev)
+
+---
+
+## `$ cat ./certifications.log`
+
+| Badge | Certification | Issuer |
+|---|---|---|
+| 🔶 | Deep Learning (Fundamentals) | NVIDIA |
+| 🔷 | Generative AI Professional | Oracle |
+| 🔷 | Data Science Foundations | Oracle |
+| 🟠 | Data Structures & Algorithms in Java | NPTEL |
+| 🟠 | Cloud Computing | NPTEL |
+| ☕ | Core Java Programming (Collections, OOP, Multithreading) | Sanfoundry |
 
 ---
 
@@ -103,10 +99,10 @@ public class ChhaviJoshi {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChhaviJoshi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=C4A882&icon_color=E8D5B7&text_color=9da5b4)](https://github.com/ChhaviJoshi)
-[![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=ChhaviJoshi&theme=dark&hide_border=true&background=0d1117&stroke=C4A88220&ring=C4A882&fire=E8D5B7&currStreakLabel=C4A882&sideLabels=9da5b4&dates=9da5b4)](https://github.com/ChhaviJoshi)
+<img src="https://github-readme-stats.vercel.app/api?username=ChhaviJoshi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ChhaviJoshi&theme=github_dark&hide_border=true" height="165"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChhaviJoshi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=C4A882&text_color=9da5b4)](https://github.com/ChhaviJoshi)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhaviJoshi&theme=github_dark&hide_border=true&layout=compact&langs_count=8" height="150"/>
 
 </div>
 
@@ -130,8 +126,9 @@ public class ChhaviJoshi {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chhavi%20Joshi-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chhavi-joshi-b31946340)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Chhavi__Joshi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Chhavi_Joshi/)
+[![X](https://img.shields.io/badge/X-%40ChhaviJoshif5-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChhaviJoshif5)
 [![Email](https://img.shields.io/badge/Email-chhavijoshi904%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chhavijoshi904@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ChhaviJoshi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChhaviJoshi)
 
 </div>
 
@@ -139,6 +136,6 @@ public class ChhaviJoshi {
 
 <div align="center">
 
-[![capsule footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0a0a0a&height=100&section=footer&text=Building%20systems%20that%20scale&fontSize=16&fontColor=C4A882&animation=twinkling&fontAlignY=65)](https://github.com/ChhaviJoshi)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7a5500,100:1a1200&height=100&section=footer&text=Building%20systems%20that%20scale&fontSize=16&fontColor=FFD700&animation=twinkling&fontAlignY=65)](https://github.com/ChhaviJoshi)
 
 </div>
