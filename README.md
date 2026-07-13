@@ -7,7 +7,7 @@
 
 </div>
 
----
+----
 
 ## `$ whoami`
 
@@ -38,7 +38,7 @@ public class ChhaviJoshi {
 }
 ```
 
----
+----
 
 ## `$ ls ./projects`
 
@@ -73,7 +73,7 @@ public class ChhaviJoshi {
 </tr>
 </table>
 
----
+----
 
 ## `$ cat ./certifications.log`
 
@@ -86,7 +86,7 @@ public class ChhaviJoshi {
 | 🟠 | Cloud Computing | NPTEL |
 | ☕ | Core Java Programming (Collections, OOP, Multithreading) | Sanfoundry |
 
----
+----
 
 ## `$ git log --stats`
 
@@ -106,7 +106,7 @@ public class ChhaviJoshi {
 
 </div>
 
----
+----
 
 ## `$ ./contribution-snake`
 
@@ -116,7 +116,7 @@ public class ChhaviJoshi {
 
 </div>
 
----
+----
 
 ## `$ cat ./achievements.log`
 
@@ -129,7 +129,7 @@ public class ChhaviJoshi {
 | 🎯 **Participant** | Codespire 3.0 |
 | 🥉 **2nd Runner-Up** | FreePress "Power of Words 2025" Presentation Competition |
 
----
+----
 
 ## `$ ping ./connect`
 
