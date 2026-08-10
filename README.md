@@ -49,7 +49,7 @@ public class ChhaviJoshi {
 ### 🔶 Gurukulam
 > Real-time WebRTC session orchestration platform
 
-- 18-model **PostgreSQL schema** (Prisma ORM)
+- **PostgreSQL schema** (Prisma ORM)
 - Role-scoped **JWT auth** + concurrent multi-room management
 - REST APIs for rooms / attendance / moderation
 - **WebRTC signaling** with webhook lifecycle management
